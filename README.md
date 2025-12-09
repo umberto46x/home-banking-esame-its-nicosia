@@ -3,7 +3,8 @@
 Clonare il progetto:
     git clone url
 Spostarsi nella cartella del progetto:
-    cd project-name
+    cd home-banking-esame-its
 Installare tutti i pacchetti necessari:
     npm install
-Avviare il progetto
+Avviare il progetto:
+    npm run dev

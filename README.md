@@ -1,7 +1,7 @@
 # Istruzioni per avviare il progetto
 
 Clonare il progetto:
-    git clone https://github.com/umberto46x/subitApp.git
+    git clone https://github.com/umberto46x/home-banking-esame-its-nicosia.git
 Spostarsi nella cartella del progetto:
     cd home-banking-esame-its-nicosia
 Installare tutti i pacchetti necessari:
